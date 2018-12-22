@@ -1,0 +1,9 @@
+MIDlet-1: Missile Commander ,, AppMain
+MIDlet-Jar-Size: 10634
+MIDlet-Jar-URL: MissileCommanderME.jar
+MIDlet-Name: MissileCommanderME MIDlet Suite
+MIDlet-Touch-Support: True
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

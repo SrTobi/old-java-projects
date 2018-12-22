@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=XS\ YS\ XZ\ YZ\ Speed\ b\u00F6se
+comment0.target=Rakete(int,\ int,\ int,\ int,\ float,\ int)
+comment1.target=void\ fly()
+comment2.params=an
+comment2.target=void\ malen(Graphics)
+comment3.target=boolean\ fertig()
+comment4.target=void\ richtung()
+comment5.params=von_x\ von_y\ zu_x\ zu_y
+comment5.target=float\ Pytago(float,\ float,\ float,\ float)
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.target=void\ start()
+comment2.target=void\ Start()
+comment3.target=void\ stop()
+comment4.target=void\ run()
+comment5.params=e\ what
+comment5.target=boolean\ action(Event,\ Object)
+comment6.params=msg
+comment6.target=void\ say(String)
+numComments=7

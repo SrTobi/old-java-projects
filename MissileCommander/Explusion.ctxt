@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ hinSpeed\ wegSpeed\ max
+comment0.target=Explusion(float,\ float,\ float,\ float,\ float)
+comment1.target=void\ weiter()
+comment2.params=an
+comment2.target=void\ malen(Graphics)
+comment3.target=boolean\ fertig()
+numComments=4

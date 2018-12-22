@@ -1,0 +1,8 @@
+MIDlet-1: Snakey ,, MainApp
+MIDlet-Jar-Size: 5221
+MIDlet-Jar-URL: Snakey.jar
+MIDlet-Name: Snakey MIDlet Suite
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

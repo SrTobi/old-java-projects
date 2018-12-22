@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=send\ server\ client
+comment0.target=connection(int,\ Spiel,\ Socket)
+comment1.target=void\ run()
+comment2.params=s
+comment2.target=void\ Name(String)
+comment3.params=msg
+comment3.target=void\ say(String)
+numComments=4

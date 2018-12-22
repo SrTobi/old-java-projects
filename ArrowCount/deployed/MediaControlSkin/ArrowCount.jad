@@ -1,0 +1,8 @@
+MIDlet-1: ArrowCount,,MainClass
+MIDlet-Jar-Size: 1996
+MIDlet-Jar-URL: ArrowCount.jar
+MIDlet-Name: ArrowCount MIDlet Suite
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

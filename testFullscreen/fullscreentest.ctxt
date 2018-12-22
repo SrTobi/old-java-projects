@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=Args
+comment0.target=void\ main(String[])
+comment1.target=fullscreentest()
+comment2.target=void\ run()
+comment3.params=g
+comment3.target=void\ paintFrame(Graphics2D)
+comment4.params=e
+comment4.target=void\ keyPressed(KeyEvent)
+comment5.params=e
+comment5.target=void\ keyReleased(KeyEvent)
+comment6.params=e
+comment6.target=void\ keyTyped(KeyEvent)
+numComments=7

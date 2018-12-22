@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=server\ client
+comment0.target=connection(chatserver,\ Socket)
+comment1.target=void\ run()
+numComments=2

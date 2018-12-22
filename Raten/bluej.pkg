@@ -1,0 +1,23 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=308
+package.editor.y=287
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.appletHeight=500
+target1.appletWidth=700
+target1.editor.height=664
+target1.editor.width=678
+target1.editor.x=35
+target1.editor.y=223
+target1.height=50
+target1.name=Raten
+target1.numberAppletParameters=0
+target1.showInterface=false
+target1.type=AppletTarget
+target1.width=80
+target1.x=80
+target1.y=60
